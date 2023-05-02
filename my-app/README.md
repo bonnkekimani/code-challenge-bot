@@ -109,7 +109,7 @@ Through this mini project, I have demonstrated my understanding of CRUD in React
 4.  From your browser you should be adle to see the available bots alongside the details.
 ## Authors
 Bonnke Kimani https://github.com/bonnkekimani
-## Live link
+## Live link https://code-challenge-bot-6xkd.vercel.app/
 
 ## License
 This project is licensed under the Apache License - see the LICENSE file for details
