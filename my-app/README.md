@@ -61,6 +61,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+
+
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
@@ -68,3 +70,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### This project contains 8 files which are:
+
+  1. public
+  2. src
+  3. .gitignore
+  4. LICENSE
+  5. README.md
+  6. db.json
+  7. package-lock.json
+  8. package.json
+
+## Core Deliverables
+
+For this project, I built a React application that displays a
+list of available bots, among other features.
+
+For this web app a user can be able to:
+1. See profiles of all bots rendered in `BotCollection`.
+2. Add an individual bot to my army by clicking on it. The selected bot should
+  render in the `YourBotArmy` component. The bot can be enlisted only **once**.
+  The bot **does not** disappear from the `BotCollection`.
+3. Release a bot from my army by clicking on it. The bot disappears from the
+  `YourBotArmy` component.
+4. Discharge a bot from their service forever, by clicking the button marked
+  "x", which would delete the bot both from the backend and from the
+  `YourBotArmy` on the frontend.
+
+## Brief of what the project entails
+This is a mini web app to showcase my understanding in the various concepts of react. These concepts includes: Concepts, States, Events and Data fetching.
+Through this mini project, I have demonstrated my understanding of CRUD in React.
+
+## Executing program
+1. Git clone git@github.com:
+2. Open the folder using VS code.i.e. You can open your terminal and type (code .) from where you have cloned the repo.
+3.  Head over to my-app and npm start the project .
+4.  From your browser you should be adle to see the available bots alongside the details.
+## Authors
+Bonnke Kimani https://github.com/bonnkekimani
+## Live link
+
+## License
+This project is licensed under the Apache License - see the LICENSE file for details
+## Acknowledgments
+Inspiration, code snippets, etc.
+1. Kilonzif
